@@ -3,3 +3,4 @@
 - 💼 Projects count: 13
 - 💻 Libraries I use in everyday work: RxSwift, RxCocoa, SnapKit, Alamofire, RxGesture, RxKeyboard, SwiftLint, KeychainSwift, Lottie, SwiftyStoreKit
 - 📱 Programs that I use: Figma, Sketch, Slack, SourceTree, Charles, Trello
+- 📚 Latest blog post: https://medium.com/azikus/collapse-and-expand-uitableview-cells-like-a-pro-df4a2fd85287
