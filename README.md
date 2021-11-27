@@ -5,4 +5,4 @@
 - 📱 Programs that I use: Figma, Sketch, Slack, SourceTree, Charles, Trello, Jira
 - 📚 Latest blog post: https://medium.com/azikus/building-3d-avatars-in-ios-using-scenekit-a10353aac11
 - 📄 Other blog posts: https://medium.com/azikus/collapse-and-expand-uitableview-cells-like-a-pro-df4a2fd85287
-- 🧮 Other programming languages that I know: C, Python, JavaScript
+- 🧮 Programming languages that I use: Swift, C, Python, JavaScript
