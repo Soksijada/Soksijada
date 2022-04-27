@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krešimir Baković
-- ⌨️ Working experience as iOS Developer: 3 years
-- 💼 Projects count: 13
-- 💻 Libraries I use in everyday work: RxSwift, RxCocoa, SnapKit, Alamofire, RxGesture, SwiftLint, KeychainSwift, Lottie, SwiftyStoreKit
+- ⌨️ Working experience as iOS Developer: 4 years
+- 💼 Projects count: 15
+- 💻 Libraries I use in everyday work: RxSwift, RxCocoa, SnapKit, Alamofire, RxGesture, SwiftLint, KeychainSwift, Lottie
 - 📱 Programs that I use: Figma, Sketch, Slack, SourceTree, Charles, Trello, Jira
 - 📚 Latest blog post: https://medium.com/azikus/building-3d-avatars-in-ios-using-scenekit-a10353aac11
 - 📄 Other blog posts: https://medium.com/azikus/collapse-and-expand-uitableview-cells-like-a-pro-df4a2fd85287
