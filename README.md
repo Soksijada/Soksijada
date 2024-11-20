@@ -1,7 +1,7 @@
 - 👋🏻 Hi, I’m Krešimir Baković
-- ⌨️ Working experience as iOS Developer: +5 years
+- ⌨️ Working experience as iOS Developer: +6 years
 - 💼 Projects count: 20+
-- 💻 Libraries I use in everyday work: RxSwift, RxCocoa, SnapKit, Alamofire, RxGesture, SwiftLint, KeychainSwift, Lottie, Combine, CombineCocoa
+- 💻 Libraries I use in everyday work: RxSwift, RxCocoa, SnapKit, Alamofire, SwiftLint, Lottie, Combine, CombineCocoa
 - 📱 Tools that I use: Figma, Sketch, Slack, SourceTree, Charles, Trello, Jira, Notion, Postman, Sublime, Discord, Github, Gitlab, iTerm
 - 🧮 Programming languages that I use: Swift, C, Python, Java, JavaScript
 - 📚 Latest blog posts:
